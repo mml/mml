@@ -10,5 +10,7 @@ Fun things:
 - compilers and interpreters
 
 A little curious about:
-- using high-level languages to do low-level things
+- using "high" languages to do "low" things
+  - like making Scheme work on a microcontroller
+  - like writing a bootloader in OCaml
 - partitioning hypervisors
